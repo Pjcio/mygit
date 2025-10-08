@@ -1,3 +1,0 @@
-/home/picio/WSL-code/GitFromScratch/mygit/build/CMakeFiles/git.dir
-/home/picio/WSL-code/GitFromScratch/mygit/build/CMakeFiles/edit_cache.dir
-/home/picio/WSL-code/GitFromScratch/mygit/build/CMakeFiles/rebuild_cache.dir

@@ -1,7 +1,0 @@
-{
-	"InstallScripts" : 
-	[
-		"/home/picio/WSL-code/GitFromScratch/mygit/build/cmake_install.cmake"
-	],
-	"Parallel" : false
-}
