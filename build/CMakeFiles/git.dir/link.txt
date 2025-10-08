@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/git.dir/src/main.cpp.o -o git  /usr/lib/x86_64-linux-gnu/libcrypto.so /usr/lib/x86_64-linux-gnu/libz.so
